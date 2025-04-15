@@ -98,4 +98,4 @@ This project is great for:
 
 ## License
 
-[Add your license information here]
+NO LICENCE
