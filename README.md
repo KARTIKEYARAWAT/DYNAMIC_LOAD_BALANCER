@@ -1,5 +1,13 @@
 # DYNAMIC_LOAD_BALANCER
 Dynamic Load Balancing in Multiprocessor Systems is like a friendly chef juggling tasks in a busy kitchen. It smartly shares workloads across multiple processors, ensuring no single one gets overwhelmed. By adapting on the fly, it keeps your system humming smoothly, delivering faster results and happier users, even when the heat is on.
+# LESSER KNOWN FACTS ‼️
+Our dynamic load balancer for multiprocessor systems shines with these under-the-radar capabilities:
+•	Predictive Intelligence: Harnesses lightweight machine learning to forecast workload surges, redistributing tasks preemptively to avoid bottlenecks.
+•	Minimal Overhead: Optimizes the computational cost of task scheduling, ensuring resource use stays lean even during complex operations.
+•	Asymmetric Core Mastery: Prioritizes high-performance cores for demanding tasks, tailored for architectures like big.LITTLE, boosting efficiency.
+•	Latency Mitigation: Tackles inter-processor communication delays by streamlining task handoffs, critical for large or distributed systems.
+•	Self-Adapting Algorithms: Continuously refines its approach based on system-specific workload patterns, enhancing performance over time.
+
 # Smart Task Manager: A Dynamic Load Balancer 🚀
 
 Ever wondered how your computer handles multiple tasks at once? This project shows you exactly that! Think of it as a smart assistant that helps your computer work more efficiently by distributing tasks across different processors - just like a good manager distributing work among team members.
